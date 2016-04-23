@@ -3,3 +3,5 @@ it... please don't judge me on this :D
 
 That said, it seems to work and is really fast.
 
+MIT License.
+
