@@ -3,5 +3,7 @@ it... please don't judge me on this :D
 
 That said, it seems to work and is really fast.
 
+Check out https://github.com/mjlyons/filesearch-server for an example of how to use it.
+
 MIT License.
 
